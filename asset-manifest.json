@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Second-Portfolio-Clone-Coding-react/static/css/main.dd66e9dc.chunk.css",
+    "main.js": "/Second-Portfolio-Clone-Coding-react/static/js/main.0ff0d4b4.chunk.js",
+    "main.js.map": "/Second-Portfolio-Clone-Coding-react/static/js/main.0ff0d4b4.chunk.js.map",
+    "runtime-main.js": "/Second-Portfolio-Clone-Coding-react/static/js/runtime-main.ee4089dd.js",
+    "runtime-main.js.map": "/Second-Portfolio-Clone-Coding-react/static/js/runtime-main.ee4089dd.js.map",
+    "static/js/2.59b0d8aa.chunk.js": "/Second-Portfolio-Clone-Coding-react/static/js/2.59b0d8aa.chunk.js",
+    "static/js/2.59b0d8aa.chunk.js.map": "/Second-Portfolio-Clone-Coding-react/static/js/2.59b0d8aa.chunk.js.map",
+    "index.html": "/Second-Portfolio-Clone-Coding-react/index.html",
+    "precache-manifest.1688ffc05fde247b95e7c305b00b8ab8.js": "/Second-Portfolio-Clone-Coding-react/precache-manifest.1688ffc05fde247b95e7c305b00b8ab8.js",
+    "service-worker.js": "/Second-Portfolio-Clone-Coding-react/service-worker.js",
+    "static/css/main.dd66e9dc.chunk.css.map": "/Second-Portfolio-Clone-Coding-react/static/css/main.dd66e9dc.chunk.css.map",
+    "static/js/2.59b0d8aa.chunk.js.LICENSE.txt": "/Second-Portfolio-Clone-Coding-react/static/js/2.59b0d8aa.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ee4089dd.js",
+    "static/js/2.59b0d8aa.chunk.js",
+    "static/css/main.dd66e9dc.chunk.css",
+    "static/js/main.0ff0d4b4.chunk.js"
+  ]
+}
